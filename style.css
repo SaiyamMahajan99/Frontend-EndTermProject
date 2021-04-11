@@ -1,0 +1,22 @@
+body {
+    background-image: url(background.jpg);
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family:Calibri;
+}
+
+.divBlue {
+    background-color: blue;
+    color: aliceblue;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+.button {
+  background-color: blue;
+  color: black;
+  padding: 3px 7px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+}
